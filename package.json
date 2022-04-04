@@ -1,0 +1,19 @@
+{
+  "name": "fileupload",
+  "version": "1.0.0",
+  "description": "The art of the file upload is not elegantly addressed in languages such as Java and Python. But a file upload in Node is a relatively straightforward endeavor, especially if you have the right NPM libraries at your fingertips.",
+  "main": "upload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagadeshsubash/Fileupload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jagadeshsubash/Fileupload/issues"
+  },
+  "homepage": "https://github.com/jagadeshsubash/Fileupload#readme"
+}
